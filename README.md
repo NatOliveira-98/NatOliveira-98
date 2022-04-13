@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there! 👋
 
 Hi, my name is Natasha, I'm a Front-End Web Developer.
 
