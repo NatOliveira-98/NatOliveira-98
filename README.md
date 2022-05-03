@@ -2,7 +2,7 @@
 
 Hi, my name is Natasha, I'm a Front-End Web Developer.
 
-- 🌱 I'm always aiming for the best that I can do.
+- 🌱 I'm always striving for the best that I can do.
 
 ---
 - 📫 How to reach me: 
